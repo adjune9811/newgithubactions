@@ -1,4 +1,4 @@
-resource_group = "variable-rg-git"
+resource_group = "variable-rg"
 location = "East US"
 storage_account_name = "addsdemosynapsestorage"
 data_lake_gen2_filesystem = "filesystem"
